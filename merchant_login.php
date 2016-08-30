@@ -28,12 +28,7 @@ include"./lang/merchant_lang.php";?>
                             $_SESSION['CI_valid_merchant']=$CI_valid_merchant;
                             
                             $_SESSION['CI_valid_merchant_id']=$CI_valid_merchant_id;
-                            //header("location:alerts.php");
-                        
-                    //	$msg="<center><h4 style=\"margin-bottom: 0px; margin-top: 10px;\">You are successfully logged in. Click on close to start accessing member area</h1><br></center>
-                //		<A HREF='javascript:#.go(0)'>Click to close and refresh</A>
-                //
-                //		";
+                           
                         header("location:merchant_info.php");
                     }
                     else
