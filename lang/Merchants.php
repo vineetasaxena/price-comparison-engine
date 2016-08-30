@@ -1,0 +1,29 @@
+<?
+$lang['EPassword']="Edit Password ";
+$lang['ELogo']="Edit Logo";
+$lang['FName']="First Name ";
+$lang['EAddress']="Email Address ";
+$lang['LName']="Last Name ";
+$lang['Phno']="Phone No.: ";
+$lang['MbNo']="Mobile No.: ";
+$lang['Fax']="Fax";
+$lang['WPage']="Web Page ";
+$lang['Address']="Address";
+$lang['City']="City";
+$lang['State']="State";
+$lang['Country']="Country";
+$lang['Region']="Region:";
+$lang['CName']="Company Name: ";
+$lang['Overviews']="Overviews:";
+$lang['Tpersoana']="Tip persoana juridica:";
+$lang['inregistrares']="Cod unic de inregistrare(CNP pentru PFA):";
+$lang['Baccount']="Bank account:";
+$lang['Bname']="Bank name:";
+$lang['URL']="URL:";
+$lang['CInfo']="Contact Info:";
+$lang['POption']="Payment Option:";
+$lang['Delivery']="Delivery:";
+$lang['AService']="Addtional Service: ";
+$lang['Description']="Description";
+$lang['EMerchant']="Edit Merchant";
+?>
